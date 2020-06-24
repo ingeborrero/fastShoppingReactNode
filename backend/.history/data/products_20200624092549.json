@@ -1,0 +1,32 @@
+[{
+    "product_id": 1,
+    "product_category_id": 100,
+    "product_name":"MEN'S BETTER THAN NAKED JACKET",
+    "product_image_url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+    "product_info": "A product description is the marketing copy used to describe a product's value proposition to potential customers.",
+    "price": 542.99
+ },
+ {
+    "product_id": 2,
+    "product_category_id": 110,
+    "product_name":"WOMEN'S BETTER THAN NAKED JACKET",
+    "product_image_url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+    "product_info": "A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale",
+    "price": 89.99
+ },
+ {
+    "product_id": 3,
+    "product_category_id": 100,
+    "product_name":"WOMEN'S SINGLE-TRACK SHOE",
+    "product_image_url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+    "product_info": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+    "price": 16.99
+ },
+ {
+    "product_id": 4,
+    "product_category_id": 105,
+    "product_name":"Enduro Boa Hydration Pack",
+    "product_image_url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+    "product_info": "World's Largest Brand Marketplace. Choose Your Favorite Product and Order Now! 100% Refund. Quality Assured. Trade Assurance",
+    "price": 189.00
+ }]
