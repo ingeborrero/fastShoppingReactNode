@@ -1,0 +1,1 @@
+export const API_SHOPPING_NODEJS = 'http://localhost:3002';
